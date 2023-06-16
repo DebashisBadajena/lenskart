@@ -221,7 +221,7 @@ font-family:'Lenskart Sans-Ultra',Arial, Helvetica, sans-serif ;
     margin-top: 20px;
     box-sizing: border-box;
     display: block;
-    overflow: autos;
+    overflow: auto;
   }
   
   .carousel {
